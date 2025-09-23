@@ -1,5 +1,12 @@
 # fpp3-python-readalong
 
+## Preface for 2025+
+
+There is now an official Python version of the text: [Forecasting: Principles and Practice, the Pythonic Way](https://otexts.com/fpppy/).  I will leave my old notes online, but I recommend the official text for any serious study.
+
+
+## Original introduction
+
 These notes are a Python-centered read-along of the excellent [Forecasting: Principles and Practice](https://otexts.com/fpp3/index.html) by Rob J Hyndman and George Athanasopoulos [1].
 
 Please find the [table of contents](https://nbviewer.jupyter.org/github/zgana/fpp3-python-readalong/blob/master/Contents.ipynb) on Jupyter nbviewer.
