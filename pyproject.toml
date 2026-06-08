@@ -1,0 +1,20 @@
+[project]
+name = "fpp3-python-readalong"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "rdatasets",
+    "numpy",
+    "pandas",
+    "pmdarima",
+    "scipy",
+    "scikit-learn",
+    "statsmodels",
+    "tsfresh",
+    "xlrd",
+    "matplotlib",
+    "seaborn",
+    "tqdm",
+    "ipywidgets",
+    "jupyterlab",
+]
